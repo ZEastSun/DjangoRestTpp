@@ -47,7 +47,7 @@ itsdangerous==1.1.0
 Jinja2==2.10
 jsonpath==0.75
 kombu==3.0.37
-lxml==4.2.5
+lxml==4.6.2
 macholib==1.11
 Mako==1.0.7
 MarkupSafe==1.0
